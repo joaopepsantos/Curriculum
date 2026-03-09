@@ -2,3 +2,12 @@
 	font-family: "Bebas Neue";
 
 }
+.formacao{
+	background-color: #e3b76f;
+	height: 25%;
+	width: 24%;
+	display: inline-block;
+	margin: 0 auto;
+	max-width:650px;
+
+}
